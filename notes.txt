@@ -1,0 +1,7 @@
+# Notes for making CV visualization
+# R.A. King
+# Nov. 7, 2021
+
+TO-DO:
+[] Add interactive feature to whittaker plot - when hover over point provide info about site
+   and job
