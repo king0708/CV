@@ -3,5 +3,6 @@
 # Nov. 7, 2021
 
 TO-DO:
-[] Add interactive feature to whittaker plot - when hover over point provide info about site
+[X] Add interactive feature to whittaker plot - when hover over point provide info about site
    and job
+[] Figure out how to link a table when selecting a point in shiny
